@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jeff0282
 - 👀 I’m Interested in Web Development, Unusual Hardware & Retro-Computing, and both Front and Back-End Development,
 - 🌱 I’m Currently a MEng Software Engineering Student at Heriot-Watt University, Scotland,
-- 📫 I Can be Reached Through the Email Address in My Bio!
+- 📫 I Can be Reached Through Various Platform, Which Can Be Found Using The Link In My Bio
