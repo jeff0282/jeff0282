@@ -1,5 +1,8 @@
-### Travis F. Campbell (a.k.a Jeff)
+### The Github of the Jeffer
 
-I'm a Software Engineering Student and Hobbyist Tinkerer 
+Welcome! I'm a CompSci student and hobbyist developer of random crap!
 
-I'm mostly interested in Back-End Web Development. 
+#### Repository Naming Convention
+I like to name any proper repo after birds in the [Anatidae family of Waterfowl](https://en.wikipedia.org/wiki/Anatidae); Webgoose and Swanlake being prime examples!
+
+![A Goose in a Green Flower Pot. A Pot Goose](potgoose-transparent.png "A Pot Goose")
